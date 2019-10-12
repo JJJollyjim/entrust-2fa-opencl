@@ -1,0 +1,3 @@
+[submodule "opencl_brute"]
+	path = opencl_brute
+	url = https://github.com/bkerler/opencl_brute
